@@ -15,7 +15,7 @@ Demonstrates how to use a Shared Library in Jenkins pipelines. This repository d
 
 2. Then create a Jenkins job with the following pipeline (note that the underscore `_` is not a typo):
    Simple commit.
-
+ Another commit.
     ```
     @Library('pipeline-library-demo')_
 
